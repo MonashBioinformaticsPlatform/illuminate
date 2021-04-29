@@ -3,7 +3,9 @@ Illuminate: shedding light on Illumina sequencing runs
 
 _Rescued from https://bitbucket.org/invitae/illuminate_
 
-_**Probably not actively developed**_
+Current actively developed version at: https://github.com/nthmost/illuminate
+
+_**Not actively developed here**_
 
 Python module and utilities to parse the metrics binaries output by
 Illumina sequencers.
